@@ -761,3 +761,4 @@ tabel
 diagram
 jenis
 kenal
+sulit
